@@ -2850,6 +2850,7 @@ Example:	Wynns International Inc.	guess=company	gold=	confidence=0.9999995921565
 Example:	YPF	guess=drug	gold=	confidence=0.5229646926580949
 Example:	iStar Financial Inc.	guess=company	gold=	confidence=0.9999988614798896
 Example:	lehman Brothers Holdings Capital.	guess=company	gold=	confidence=0.9618853921160084
+<<<<<<< HEAD
 =======
 Example:	A-200 Shampoo Concentrate	guess=drug	gold=drug	confidence=0.9750577624892444
 Example:	Acet-2	guess=drug	gold=drug	confidence=0.8268409413608852
@@ -5713,3 +5714,5 @@ Example:	Wynns International Inc.	guess=company	gold=company	confidence=0.999998
 Example:	YPF	guess=person	gold=company	confidence=0.2
 Example:	iStar Financial Inc.	guess=company	gold=company	confidence=0.9999982959531432
 Example:	lehman Brothers Holdings Capital.	guess=company	gold=company	confidence=0.6435753817560738
+=======
+>>>>>>> 7c54c5dad228f049178a8f0a6e1271847483455b
