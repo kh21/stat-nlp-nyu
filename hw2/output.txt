@@ -5714,5 +5714,3 @@ Example:	Wynns International Inc.	guess=company	gold=company	confidence=0.999998
 Example:	YPF	guess=person	gold=company	confidence=0.2
 Example:	iStar Financial Inc.	guess=company	gold=company	confidence=0.9999982959531432
 Example:	lehman Brothers Holdings Capital.	guess=company	gold=company	confidence=0.6435753817560738
-=======
->>>>>>> 7c54c5dad228f049178a8f0a6e1271847483455b
